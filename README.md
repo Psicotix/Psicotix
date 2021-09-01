@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Psicotix.
-- 👀 I’m interested in DevNet, Network Operations, Audio and Media Expression.
+- 👀 I’m interested in DevNet, Network Operations, Audio and Media expression.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything that gives me time to study.
 - 📫 You can contact me through GitHub.
